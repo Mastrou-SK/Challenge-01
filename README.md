@@ -1,2 +1,2 @@
-# Elzero-Web-School-Front-End-Challenges
-Challenge 01
+# Challenge 01
+Elzero Web School Front End
